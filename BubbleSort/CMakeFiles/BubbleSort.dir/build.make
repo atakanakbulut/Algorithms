@@ -53,15 +53,15 @@ CMakeFiles/BubbleSort.dir/main.cpp.o: CMakeFiles/BubbleSort.dir/flags.make
 CMakeFiles/BubbleSort.dir/main.cpp.o: main.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/atakan/Algorithms/BubbleSort/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/BubbleSort.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/BubbleSort.dir/main.cpp.o -c /home/atakan/Algorithms/BubbleSort/main.cpp
+	/home/atakan/CROSS_COMPILE/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/BubbleSort.dir/main.cpp.o -c /home/atakan/Algorithms/BubbleSort/main.cpp
 
 CMakeFiles/BubbleSort.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BubbleSort.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/atakan/Algorithms/BubbleSort/main.cpp > CMakeFiles/BubbleSort.dir/main.cpp.i
+	/home/atakan/CROSS_COMPILE/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/atakan/Algorithms/BubbleSort/main.cpp > CMakeFiles/BubbleSort.dir/main.cpp.i
 
 CMakeFiles/BubbleSort.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BubbleSort.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/atakan/Algorithms/BubbleSort/main.cpp -o CMakeFiles/BubbleSort.dir/main.cpp.s
+	/home/atakan/CROSS_COMPILE/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/atakan/Algorithms/BubbleSort/main.cpp -o CMakeFiles/BubbleSort.dir/main.cpp.s
 
 CMakeFiles/BubbleSort.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/BubbleSort.dir/main.cpp.o.requires
