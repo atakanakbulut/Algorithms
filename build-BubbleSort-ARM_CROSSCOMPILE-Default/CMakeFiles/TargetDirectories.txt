@@ -1,0 +1,1 @@
+/home/atakan/Algorithms/build-BubbleSort-ARM_CROSSCOMPILE-Default/CMakeFiles/BubbleSort.dir
