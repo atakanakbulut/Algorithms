@@ -6,3 +6,4 @@
 #### Bubble Sort Algorithm
 #### Binary Search Algorithm
 #### BFS Algorithm
+#### DFS Algorithm
