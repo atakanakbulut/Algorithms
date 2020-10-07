@@ -7,3 +7,4 @@
 #### Binary Search Algorithm
 #### BFS Algorithm
 #### DFS Algorithm
+#### Selection Sort Algorithm
